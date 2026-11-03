@@ -39,6 +39,8 @@ KEYWORDS = {
 ART = {'Türkiye':'turkey','Dünya':'world','Ekonomi':'economy','Teknoloji':'tech'}
 MAX_BY_CAT = {'Türkiye':350,'Dünya':300,'Ekonomi':200,'Teknoloji':150}
 MIN_ITEMS = 6
+ARCHIVE_DAYS = 7
+MAX_ARCHIVE_ITEMS = 1000
 
 def clean(value: str) -> str:
     value = re.sub(r'<[^>]*>', ' ', str(value or ''))
@@ -136,7 +138,7 @@ def make_edition(feeds, *, now=None):
             errors.append(name+': '+str(err)[:120]); print('UYARI:',errors[-1],file=sys.stderr);continue
         for item in items:
             when=item['published']
-            if not when or (now-when)>timedelta(hours=56) or when>now+timedelta(hours=2):continue
+            if not when or (now-when)>timedelta(days=ARCHIVE_DAYS) or when>now+timedelta(hours=2):continue
             key=re.sub(r'\W+','',item['title'].casefold())[:76]
             if key in unique:continue
             unique.add(key)
@@ -146,7 +148,7 @@ def make_edition(feeds, *, now=None):
     selected=[]
     for entry in candidates:
         cat=classify(entry)
-        if count_by_cat[cat]>=MAX_BY_CAT[cat] or count_by_source.get(entry['source'],0)>=4:continue
+        if count_by_cat[cat]>=MAX_BY_CAT[cat] or count_by_source.get(entry['source'],0)>=150:continue
         selected.append(convert(entry));count_by_cat[cat]+=1
         count_by_source[entry['source']]=count_by_source.get(entry['source'],0)+1
     # Başlık ve editoryal sıralama; son dakika ile magazin karıştırmamak için kategoriler dengelenir.
@@ -176,6 +178,29 @@ def main():
             return real(name,url,cat,xml_data=raw)
         read_feed=fake
     edition=make_edition(FEEDS)
+        if not args.demo:
+        archive_path = ROOT / 'edition.json'
+        if archive_path.exists():
+            try:
+                old_edition = json.loads(archive_path.read_text(encoding='utf-8'))
+                cutoff = datetime.now(timezone.utc) - timedelta(days=ARCHIVE_DAYS)
+                merged = {a['id']: a for a in edition['articles']}
+                for article in old_edition.get('articles', []):
+                    try:
+                        published = datetime.fromisoformat(article['published'])
+                        if published.tzinfo is None:
+                            published = published.replace(tzinfo=timezone.utc)
+                        if published >= cutoff and article['id'] not in merged:
+                            merged[article['id']] = article
+                    except (KeyError, TypeError, ValueError):
+                        continue
+                edition['articles'] = sorted(
+                    merged.values(),
+                    key=lambda a: a.get('published') or '',
+                    reverse=True
+                )[:MAX_ARCHIVE_ITEMS]
+            except (OSError, ValueError) as err:
+                print('Arşiv okunamadı:', err, file=sys.stderr)
     # Tam atomik yazma: hata olursa mevcut haberler korunur.
     out=ROOT/('edition.demo.json' if args.demo else 'edition.json');tmp=ROOT/'edition.tmp'
     tmp.write_text(json.dumps(edition,ensure_ascii=False,indent=2),encoding='utf-8')
