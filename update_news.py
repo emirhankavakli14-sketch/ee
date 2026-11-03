@@ -78,27 +78,28 @@ def get_image(item):
                 return url
     return ''
 def read_feed(name, url, default_cat, *, xml_data=None):
-        if xml_data is None:
-            req = urllib.request.Request(url,headers={'User-Agent':'GundemDailyReader/1.0 (+RSS aggregator; contact repository owner)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
-            with urllib.request.urlopen(req,timeout=18) as response:
-                xml_data = response.read(3_000_000)
-    root=ET.fromstring(xml_data)
-    entries=[]
+    if xml_data is None:
+        req = urllib.request.Request(url, headers={'User-Agent': 'GundemDailyReader/1.0 (+RSS aggregator; contact repository owner)', 'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
+        with urllib.request.urlopen(req, timeout=18) as response:
+            xml_data = response.read(3_000_000)
+    root = ET.fromstring(xml_data)
+    entries = []
     for item in root.iter():
-        if item.tag.rsplit('}',1)[-1] not in ('item','entry'):
+        if item.tag.rsplit('}', 1)[-1] not in ('item', 'entry'):
             continue
-        title=child_text(item,'title')
-        desc=child_text(item,'description','summary','content')
-        url=child_text(item,'link')
+        title = child_text(item, 'title')
+        desc = child_text(item, 'description', 'summary', 'content')
+        url = child_text(item, 'link')
         if not url:
             for c in item:
-                if c.tag.rsplit('}',1)[-1]=='link' and c.attrib.get('href'):
-                    url=c.attrib['href'];break
-        published=parse_date(child_text(item,'pubDate','date','published','updated'))
-        if not title or not url.startswith(('https://','http://')) or not desc or len(desc)<25:
+                if c.tag.rsplit('}', 1)[-1] == 'link' and c.attrib.get('href'):
+                    url = c.attrib['href']
+                    break
+        published = parse_date(child_text(item, 'pubDate', 'date', 'published', 'updated'))
+        if not title or not url.startswith(('https://', 'http://')) or not desc or len(desc) < 25:
             continue
-        entries.append({'title':title,'description':desc,'url':url,'published':published,'source':name,'default_cat':default_cat,'image':get_image(item)})    
-     return entries
+        entries.append({'title': title, 'description': desc, 'url': url, 'published': published, 'source': name, 'default_cat': default_cat, 'image': get_image(item)})
+    return entries
          
 def classify(item):
     text=(item['title']+' '+item['description'][:160]).casefold()
