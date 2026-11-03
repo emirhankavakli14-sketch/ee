@@ -69,15 +69,22 @@ def parse_date(raw):
         except ValueError:
             return None
     return out.replace(tzinfo=timezone.utc) if out.tzinfo is None else out.astimezone(timezone.utc)
-
+def get_image(item):
+    for element in item.iter():
+        tag = element.tag.rsplit('}', 1)[-1].lower()
+        url = element.attrib.get('url', '')
+        if tag in ('thumbnail', 'content', 'enclosure') and url.startswith(('https://', 'http://')):
+            if tag != 'enclosure' or element.attrib.get('type', '').startswith('image/'):
+                return url
+    return ''
 def read_feed(name, url, default_cat, *, xml_data=None):
-    if xml_data is None:
-        req = urllib.request.Request(url,headers={'User-Agent':'GundemDailyReader/1.0 (+RSS aggregator; contact repository owner)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
-        with urllib.request.urlopen(req,timeout=18) as response:
+        if xml_data is None:
+            req = urllib.request.Request(url,headers={'User-Agent':'GundemDailyReader/1.0 (+RSS aggregator; contact repository owner)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
+            with urllib.request.urlopen(req,timeout=18) as response:
             xml_data = response.read(3_000_000)
-    root=ET.fromstring(xml_data)
-    entries=[]
-    for item in root.iter():
+     root=ET.fromstring(xml_data)
+     entries=[]
+     for item in root.iter():
         if item.tag.rsplit('}',1)[-1] not in ('item','entry'):
             continue
         title=child_text(item,'title')
@@ -90,9 +97,9 @@ def read_feed(name, url, default_cat, *, xml_data=None):
         published=parse_date(child_text(item,'pubDate','date','published','updated'))
         if not title or not url.startswith(('https://','http://')) or not desc or len(desc)<25:
             continue
-        entries.append({'title':title,'description':desc,'url':url,'published':published,'source':name,'default_cat':default_cat})
-    return entries
-
+        entries.append({'title':title,'description':desc,'url':url,'published':published,'source':name,'default_cat':default_cat,'image':get_image(item)})    
+     return entries
+         
 def classify(item):
     text=(item['title']+' '+item['description'][:160]).casefold()
     # Kaynağın odaklandığı alanı koru; belirgin konu varsa sınıflandırmayı düzelt.
@@ -114,6 +121,7 @@ def convert(item):
         'cat':cat,'eyebrow':cat.upper()+' · '+source.upper(),
         'title':item['title'],
         'dek':desc,
+        'image':item.get('image', ''),
         'minutes':1,'time':day,'art':ART[cat],
         'body':[
             f'{source}, {day} tarihinde bu gelişmeyi haberleştirdi.',
