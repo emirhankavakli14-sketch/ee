@@ -1,8 +1,585 @@
 {
   "edition_date": "03.11.2026",
-  "updated_at": "2026-11-03T07:24+03:00",
+  "updated_at": "2026-11-03T08:28+03:00",
   "notice": "RSS kaynaklarından otomatik derlenen kısa haber özetleri. Tam makale veya editör onaylı analiz değildir.",
   "articles": [
+    {
+      "id": "rss-5dcadb74c641944f",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Küresel piyasalarda düzeltme eğilimleri",
+      "dek": "Apple'ın marj görünümü, Palantir'in büyüme hızına ilişkin endişeler teknoloji hisselerindeki kötümserliği artırdı.",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793683430/3793148/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 08:23",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 08:23 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Apple'ın marj görünümü, Palantir'in büyüme hızına ilişkin endişeler teknoloji hisselerindeki kötümserliği artırdı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 08:23"
+      ],
+      "url": "https://www.bloomberght.com/kuresel-piyasalarda-duzeltme-egilimleri-3793148",
+      "short_brief": true,
+      "published": "2026-11-03T05:23:20+00:00"
+    },
+    {
+      "id": "rss-0316bbbcabd5a1b0",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · EURONEWS TÜRKÇE",
+      "title": "İngiltere, göçmen kurallarını katılaştırıyor: Kalıcı oturum için 10 yıl şartı",
+      "dek": "İngiltere Başbakanı Andy Burnham, Brexit'in ardından ülkenin 'göç üzerindeki kontrolünü kaybettiğini' söyledi. Burnham, 'İçişleri Bakanımız bu sorunu kontrol…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:23",
+      "art": "world",
+      "body": [
+        "Euronews Türkçe, 03.11.2026 08:23 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İngiltere Başbakanı Andy Burnham, Brexit'in ardından ülkenin 'göç üzerindeki kontrolünü kaybettiğini' söyledi. Burnham, 'İçişleri Bakanımız bu sorunu kontrol…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Euronews Türkçe",
+        "RSS yayını · 03.11.2026 08:23"
+      ],
+      "url": "https://tr.euronews.com/2026/11/03/ingiltere-gocmen-kurallarini-katilastiriyor-kalici-oturum-icin-10-yil-sarti",
+      "short_brief": true,
+      "published": "2026-11-03T05:23:04+00:00"
+    },
+    {
+      "id": "rss-c7e5a617e3a5065a",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
+      "dek": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu (82) bir süredir tedavi gördüğü hastanede hayatını kaybetti.",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:17",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 08:17 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu (82) bir süredir tedavi gördüğü hastanede hayatını kaybetti.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 08:17"
+      ],
+      "url": "https://www.aa.com.tr/tr/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti/4109281",
+      "short_brief": true,
+      "published": "2026-11-03T05:17:41+00:00",
+      "lead": true
+    },
+    {
+      "id": "rss-81716e8dd24491c7",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Trump'ın kaderi değişebilir: ABD ara seçimleri neden önemli?",
+      "dek": "ABD'deki ara seçimler yalnızca Kongre'nin yeni dağılımını değil, Donald Trump'ın kalan görev süresindeki hareket alanını da belirleyecek. Bu,…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:17",
+      "art": "world",
+      "body": [
+        "DW Türkçe, 03.11.2026 08:17 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “ABD'deki ara seçimler yalnızca Kongre'nin yeni dağılımını değil, Donald Trump'ın kalan görev süresindeki hareket alanını da belirleyecek. Bu,…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "DW Türkçe",
+        "RSS yayını · 03.11.2026 08:17"
+      ],
+      "url": "https://www.dw.com/tr/trump-ın-kaderi-değişebilir-abd-ara-seçimleri-neden-önemli/a-79783651?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-03T05:17:00+00:00"
+    },
+    {
+      "id": "rss-b15d3cddf01b7b58",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · TRT HABER",
+      "title": "Kuzey Kore 6,3 milyar dolarlık Binance siber saldırısı iddialarını reddetti",
+      "dek": "Kuzey Kore yönetimi, kripto para borsası Binance'ten 6,3 milyar dolar çalınmasıyla sonuçlanan tarihin en büyük siber saldırısının arkasında…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1764000/lripto-para-kuzey-kore-trthaber-1764857.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 08:15",
+      "art": "economy",
+      "body": [
+        "TRT Haber, 03.11.2026 08:15 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Kuzey Kore yönetimi, kripto para borsası Binance'ten 6,3 milyar dolar çalınmasıyla sonuçlanan tarihin en büyük siber saldırısının arkasında…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 08:15"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/kuzey-kore-63-milyar-dolarlik-binance-siber-saldirisi-iddialarini-reddetti-962024.html",
+      "short_brief": true,
+      "published": "2026-11-03T05:15:00+00:00"
+    },
+    {
+      "id": "rss-a5cb93c6e83d95be",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "\"Yapay zeka finansmanı aşırıya kaçacak\"",
+      "dek": "Pimco CEO'su Emmanuel Roman yapay zeka finansmanının önümüzdeki yıllarda aşırı seviyelere ulaşabileceği uyarısında bulundu.",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793682908/3793147/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 08:14",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 08:14 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Pimco CEO'su Emmanuel Roman yapay zeka finansmanının önümüzdeki yıllarda aşırı seviyelere ulaşabileceği uyarısında bulundu.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 08:14"
+      ],
+      "url": "https://www.bloomberght.com/yapay-zeka-finansmani-asiriya-kacacak-3793147",
+      "short_brief": true,
+      "published": "2026-11-03T05:14:30+00:00"
+    },
+    {
+      "id": "rss-7b0d16f2a3fb20bb",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+      "dek": "Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:13",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 08:13 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 08:13"
+      ],
+      "url": "https://www.aa.com.tr/tr/ekonomi/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor/4109280",
+      "short_brief": true,
+      "published": "2026-11-03T05:13:57+00:00"
+    },
+    {
+      "id": "rss-1f3b45aaa9faa8dd",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · EURONEWS TÜRKÇE",
+      "title": "İspanya'dan kadın çalışanlar için yeni hak: Menopoz izni 1 Aralık'ta başlıyor",
+      "dek": "1 Aralık'tan itibaren menopozla bağlantılı ve çalışma hayatını olumsuz etkileyen sağlık sorunları yaşayan kadın çalışanlar, özel sağlık izni…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:13",
+      "art": "world",
+      "body": [
+        "Euronews Türkçe, 03.11.2026 08:13 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “1 Aralık'tan itibaren menopozla bağlantılı ve çalışma hayatını olumsuz etkileyen sağlık sorunları yaşayan kadın çalışanlar, özel sağlık izni…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Euronews Türkçe",
+        "RSS yayını · 03.11.2026 08:13"
+      ],
+      "url": "https://tr.euronews.com/2026/11/03/ispanyadan-kadin-calisanlar-icin-yeni-hak-menopoz-izni-1-aralikta-basliyor",
+      "short_brief": true,
+      "published": "2026-11-03T05:13:04+00:00"
+    },
+    {
+      "id": "rss-a0efd4be20364648",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Trump gücünü kaybederse Türkiye'yi neler bekliyor?",
+      "dek": "ABD ara seçimleri Trump'ın hareket alanını belirleyecek. DW Türkçe'ye konuşan eski Beyaz Saray yetkilisi Mark Pfeifle'e göre Erdoğan-Trump…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:13",
+      "art": "world",
+      "body": [
+        "DW Türkçe, 03.11.2026 08:13 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “ABD ara seçimleri Trump'ın hareket alanını belirleyecek. DW Türkçe'ye konuşan eski Beyaz Saray yetkilisi Mark Pfeifle'e göre Erdoğan-Trump…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "DW Türkçe",
+        "RSS yayını · 03.11.2026 08:13"
+      ],
+      "url": "https://www.dw.com/tr/trump-gücünü-kaybederse-türkiye-yi-neler-bekliyor/a-79799533?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-03T05:13:00+00:00"
+    },
+    {
+      "id": "rss-fe61b209636b5761",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Binlerce Avrupalı asker olası bir barış durumunda Ukrayna'ya konuşlanma tatbikatı yapacak",
+      "dek": "İngiltere ve Fransa, olası bir barış anlaşmasının ardından çok uluslu bir gücün Ukrayna'ya konuşlanma kabiliyetini test etmek üzere…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2090000/fransa-asker-2090928.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 08:12",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 08:12 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İngiltere ve Fransa, olası bir barış anlaşmasının ardından çok uluslu bir gücün Ukrayna'ya konuşlanma kabiliyetini test etmek üzere…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 08:12"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/binlerce-avrupali-asker-olasi-bir-baris-durumunda-ukraynaya-konuslanma-tatbikati-yapacak-962023.html",
+      "short_brief": true,
+      "published": "2026-11-03T05:12:00+00:00"
+    },
+    {
+      "id": "rss-711ec92118126b13",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "Apple'ın geliri temmuz-eylül döneminde arttı",
+      "dek": "ABD'nin teknoloji devlerinden Apple'ın geliri temmuz-eylül döneminde yıllık bazda yaklaşık yüzde 12 artış gösterdi.",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:10",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 08:10 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “ABD'nin teknoloji devlerinden Apple'ın geliri temmuz-eylül döneminde yıllık bazda yaklaşık yüzde 12 artış gösterdi.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 08:10"
+      ],
+      "url": "https://www.aa.com.tr/tr/ekonomi/applein-geliri-temmuz-eylul-doneminde-artti/4109279",
+      "short_brief": true,
+      "published": "2026-11-03T05:10:12+00:00"
+    },
+    {
+      "id": "rss-20edf21ba9f195fe",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · TRT HABER",
+      "title": "Borsa İstanbul Genel Müdürü Ergun tutuklandı",
+      "dek": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 'suç işlemek amacıyla kurulan örgüte üye olma' ve 'rüşvet'…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/korkmaz-enes-ergun-aa-2500072.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 08:10",
+      "art": "economy",
+      "body": [
+        "TRT Haber, 03.11.2026 08:10 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 'suç işlemek amacıyla kurulan örgüte üye olma' ve 'rüşvet'…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 08:10"
+      ],
+      "url": "https://www.trthaber.com/haber/gundem/borsa-istanbul-genel-muduru-ergun-tutuklandi-962022.html",
+      "short_brief": true,
+      "published": "2026-11-03T05:10:00+00:00"
+    },
+    {
+      "id": "rss-01975270db2aaa6a",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Elliott: Ayı piyasası için tüm alarm zilleri çalıyor",
+      "dek": "Hedge fonu Elliott Investment Management borçla finanse edilen risk iştahı ve yeni teknolojilere yönelik coşkunun hakim olduğu mevcut…",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793682618/3793145/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 08:09",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 08:09 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Hedge fonu Elliott Investment Management borçla finanse edilen risk iştahı ve yeni teknolojilere yönelik coşkunun hakim olduğu mevcut…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 08:09"
+      ],
+      "url": "https://www.bloomberght.com/elliott-ayi-piyasasi-icin-tum-alarm-zilleri-caliyor-3793145",
+      "short_brief": true,
+      "published": "2026-11-03T05:09:16+00:00"
+    },
+    {
+      "id": "rss-07f221b24d8a70e4",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "ABD sandık başında: Seçimler Trump'ın ikinci döneminin kaderini çizecek",
+      "dek": "Yüksek hayat pahalılığı, tırmanan enflasyon ve İran ile devam eden savaşın gölgesinde sandık başına giden ABD'li seçmenler, Kongre'nin…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/donald-trump-colombus-day-2494808.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 08:09",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 08:09 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Yüksek hayat pahalılığı, tırmanan enflasyon ve İran ile devam eden savaşın gölgesinde sandık başına giden ABD'li seçmenler, Kongre'nin…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 08:09"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/abd-sandik-basinda-secimler-trumpin-ikinci-doneminin-kaderini-cizecek-962021.html",
+      "short_brief": true,
+      "published": "2026-11-03T05:09:00+00:00"
+    },
+    {
+      "id": "rss-d9eb634a674cd834",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "Xiaomi Redmi M100 Pro Tanıtıldı: İşte Fiyatı ve Özellikleri",
+      "dek": "Xiaomi, M serisi ailesini genişleterek uygun fiyata üst düzey özellikler sunan yeni telefonu Redmi M100 Pro’yu tanıttı.",
+      "image": "https://imgrosetta.webtekno.com/file/695416/695416-640xauto.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 08:08",
+      "art": "tech",
+      "body": [
+        "Webtekno, 03.11.2026 08:08 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Xiaomi, M serisi ailesini genişleterek uygun fiyata üst düzey özellikler sunan yeni telefonu Redmi M100 Pro’yu tanıttı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 03.11.2026 08:08"
+      ],
+      "url": "https://www.webtekno.com/redmi-m100-pro-tanitildi-h228169.html",
+      "short_brief": true,
+      "published": "2026-11-03T05:08:58+00:00"
+    },
+    {
+      "id": "rss-f90d2a0220739b5d",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · EURONEWS TÜRKÇE",
+      "title": "Araştırma: İnsan kaynaklı ısınma, başlamış yeni buzul çağını durdurmuş olabilir",
+      "dek": "Kanadalı araştırmacılar, dev Barnes Buzulu’nun yaklaşık 2.000 yıl önce aslında daha da genişlediğini ortaya koydu. Araştırmalara göre iklim…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 08:05",
+      "art": "world",
+      "body": [
+        "Euronews Türkçe, 03.11.2026 08:05 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Kanadalı araştırmacılar, dev Barnes Buzulu’nun yaklaşık 2.000 yıl önce aslında daha da genişlediğini ortaya koydu. Araştırmalara göre iklim…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Euronews Türkçe",
+        "RSS yayını · 03.11.2026 08:05"
+      ],
+      "url": "https://tr.euronews.com/2026/11/03/arastirma-insan-kaynakli-isinma-baslamis-yeni-buzul-cagini-durdurmus-olabilir",
+      "short_brief": true,
+      "published": "2026-11-03T05:05:43+00:00"
+    },
+    {
+      "id": "rss-eed66bf7a768585d",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · SHIFTDELETE.NET",
+      "title": "Meta, Quest 2 için güncellemeleri bitiriyor",
+      "dek": "Meta, Quest 2 ve Quest Pro için son işletim sistemi güncellemesini Mart 2027'ye kadar yayınlayacağını duyurdu. Güvenlik yamaları…",
+      "image": "https://ares.shiftdelete.net/static/sdnweb-rehber/2026/11/quest-2-destek-kapak.webp",
+      "minutes": 1,
+      "time": "03.11.2026 08:00",
+      "art": "tech",
+      "body": [
+        "ShiftDelete.Net, 03.11.2026 08:00 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Meta, Quest 2 ve Quest Pro için son işletim sistemi güncellemesini Mart 2027'ye kadar yayınlayacağını duyurdu. Güvenlik yamaları…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "ShiftDelete.Net",
+        "RSS yayını · 03.11.2026 08:00"
+      ],
+      "url": "https://shiftdelete.net/quest-2-guncelleme-destegi-2027-bitiyor",
+      "short_brief": true,
+      "published": "2026-11-03T05:00:02+00:00"
+    },
+    {
+      "id": "rss-27eef39f6eda75b3",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Grönland'da bağımsızlık yolunda stratejik adım: Yeni uluslararası havalimanı açıldı",
+      "dek": "Danimarka'ya bağlı Grönland, turizm gelirlerini artırmak ve ekonomisini çeşitlendirmek amacıyla yeni uluslararası havalimanını hizmete açtı. Yetkililer, yatırımın balıkçılığa…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/greenland-airport-ap-2500611.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:42",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 07:42 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Danimarka'ya bağlı Grönland, turizm gelirlerini artırmak ve ekonomisini çeşitlendirmek amacıyla yeni uluslararası havalimanını hizmete açtı. Yetkililer, yatırımın balıkçılığa…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 07:42"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/gronlandda-bagimsizlik-yolunda-stratejik-adim-yeni-uluslararasi-havalimani-acildi-962020.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:42:00+00:00"
+    },
+    {
+      "id": "rss-ba3d3bfe012bea87",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
+      "dek": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine resmi temaslarda bulunmak üzere Seul'e…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/erdogan-guney-kore-2500610.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:41",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 07:41 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine resmi temaslarda bulunmak üzere Seul'e…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 07:41"
+      ],
+      "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-korede-962019.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:41:00+00:00"
+    },
+    {
+      "id": "rss-bc2d5c27c42812ec",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Katil Netanyahu seçim yenilgisini hazmedemedi: Arap partilerini hedef alıp seçimlere hile karıştırıldığını öne sürdü",
+      "dek": "Gazze'de soykırımın sorumlularından katil Netanyahu, İsrail'de yapılan seçimlerde parlamentodaki çoğunluğunu kaybetmesinin ardından sonuçları tartışmaya açtı. Arap partilerini rüşvet,…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/netanyahu-2495398.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:34",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 07:34 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Gazze'de soykırımın sorumlularından katil Netanyahu, İsrail'de yapılan seçimlerde parlamentodaki çoğunluğunu kaybetmesinin ardından sonuçları tartışmaya açtı. Arap partilerini rüşvet,…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 07:34"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/katil-netanyahu-secim-yenilgisini-hazmedemedi-arap-partilerini-hedef-alip-secimlere-hile-karistirildigini-one-surdu-962018.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:34:00+00:00"
+    },
+    {
+      "id": "rss-64c298186ff7f705",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Avustralya faiz oranını 18 yılın zirvesine çıkardı",
+      "dek": "Avustralya Merkez Bankası (RBA), faiz oranını 18 yılın en yüksek seviyesine çıkardı. Böylece, politika yapıcıların enflasyonu hedef seviyeye…",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793680264/3793144/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 07:30",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 07:30 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Avustralya Merkez Bankası (RBA), faiz oranını 18 yılın en yüksek seviyesine çıkardı. Böylece, politika yapıcıların enflasyonu hedef seviyeye…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 07:30"
+      ],
+      "url": "https://www.bloomberght.com/avustralya-faiz-oranini-18-yilin-zirvesine-cikardi-3793144",
+      "short_brief": true,
+      "published": "2026-11-03T04:30:04+00:00"
+    },
+    {
+      "id": "rss-e1dea616ba8b56cb",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · SHIFTDELETE.NET",
+      "title": "AirPods'un cıvıltı sesi her zaman pil değil",
+      "dek": "AirPods cıvıltı sesi çoğu zaman pilin azaldığını gösteriyor. Ancak bağlantı sorunları, su hasarı ve kulak ucu uyumsuzluğu da…",
+      "image": "https://ares.shiftdelete.net/static/sdnweb-haberbotu/hb/190a0c9abf31c77f1d4aa7f9a60608466aa04479.webp",
+      "minutes": 1,
+      "time": "03.11.2026 07:30",
+      "art": "tech",
+      "body": [
+        "ShiftDelete.Net, 03.11.2026 07:30 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “AirPods cıvıltı sesi çoğu zaman pilin azaldığını gösteriyor. Ancak bağlantı sorunları, su hasarı ve kulak ucu uyumsuzluğu da…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "ShiftDelete.Net",
+        "RSS yayını · 03.11.2026 07:30"
+      ],
+      "url": "https://shiftdelete.net/airpods-civilti-sesi-neden-cikar",
+      "short_brief": true,
+      "published": "2026-11-03T04:30:02+00:00"
+    },
+    {
+      "id": "rss-08f6ad5f53da3dfb",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "ABD'de özel jet otoyola çakıldı: Aynı aileden 4 kişi dahil 9 kişi öldü",
+      "dek": "ABD'nin Florida eyaletinde Austin'den Bahamalar'a gitmek üzere havalanan özel jet, düşerek otoyolda alev aldı. Kazada aynı aileden 4…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/florida-2500266.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:15",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 07:15 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “ABD'nin Florida eyaletinde Austin'den Bahamalar'a gitmek üzere havalanan özel jet, düşerek otoyolda alev aldı. Kazada aynı aileden 4…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 07:15"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/abdde-ozel-jet-otoyola-cakildi-ayni-aileden-4-kisi-dahil-9-kisi-oldu-962017.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:15:00+00:00"
+    },
+    {
+      "id": "rss-0d415ffba93983cc",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Altında iki ayın en hızlı artışından sonra istikrar",
+      "dek": "Altın, pazartesi günü son iki ayın en büyük sıçramasını kaydettikten sonra istikrarlı seyrediyor.",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793679358/3793143/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 07:15",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 07:15 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Altın, pazartesi günü son iki ayın en büyük sıçramasını kaydettikten sonra istikrarlı seyrediyor.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 07:15"
+      ],
+      "url": "https://www.bloomberght.com/altinda-iki-ayin-en-hizli-artisindan-sonra-istikrar-3793143",
+      "short_brief": true,
+      "published": "2026-11-03T04:15:00+00:00"
+    },
     {
       "id": "rss-832fd7bef65a42bc",
       "cat": "Teknoloji",
@@ -49,8 +626,7 @@
       ],
       "url": "https://www.trthaber.com/haber/dunya/endonezyadaki-orman-yanginlarinin-dumani-komsu-ulkelerde-siyasi-krize-yol-acti-962016.html",
       "short_brief": true,
-      "published": "2026-11-03T04:07:00+00:00",
-      "lead": true
+      "published": "2026-11-03T04:07:00+00:00"
     },
     {
       "id": "rss-2659b7a31229955c",
@@ -963,6 +1539,54 @@
       "url": "https://www.bloomberght.com/fon-sorusturmasinda-korkmaz-enes-ergun-a-tutuklama-talebi-3793136",
       "short_brief": true,
       "published": "2026-11-02T21:25:52+00:00"
+    },
+    {
+      "id": "rss-7f5d7ba2a09bc7ca",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası'nda patlama sesleri duyuldu",
+      "dek": "İran'ın güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası'nda 5 patlama sesi duyuldu.",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2442000/hurmuz-a-2443244.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 00:24",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 00:24 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İran'ın güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası'nda 5 patlama sesi duyuldu.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 00:24"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu-962002.html",
+      "short_brief": true,
+      "published": "2026-11-02T21:24:00+00:00"
+    },
+    {
+      "id": "rss-9828744881c9c41a",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "ABD ordusu İran'ın Keşm Adası'na \"sınırlı\" saldırı düzenledi",
+      "dek": "İran'ın gece saatlerinde bölgede ABD ordusuna ait bir uçağı karadan havaya füzeyle hedef almaya çalıştığı, buna karşılık ABD'nin…",
+      "image": "",
+      "minutes": 1,
+      "time": "03.11.2026 00:23",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 00:23 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İran'ın gece saatlerinde bölgede ABD ordusuna ait bir uçağı karadan havaya füzeyle hedef almaya çalıştığı, buna karşılık ABD'nin…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 00:23"
+      ],
+      "url": "https://www.aa.com.tr/tr/dunya/abd-ordusu-iranin-kesm-adasina-sinirli-saldiri-duzenledi/4109221",
+      "short_brief": true,
+      "published": "2026-11-02T21:23:12+00:00"
     },
     {
       "id": "rss-6d034c73154f7ae5",
@@ -5930,30 +6554,6 @@
       "published": "2026-11-02T10:51:08+00:00"
     },
     {
-      "id": "rss-51905fc5e250cd6c",
-      "cat": "Türkiye",
-      "eyebrow": "TÜRKIYE · TRT HABER",
-      "title": "3 yaşındaki çocuğunu darp eden anne tutuklandı",
-      "dek": "Ankara'da, 3 yaşındaki çocuğunu darp ettiğine ilişkin görüntüleri ortaya çıkan anne tutuklandı.",
-      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/cocuk-darp-2500411.jpg",
-      "minutes": 1,
-      "time": "02.11.2026 13:49",
-      "art": "turkey",
-      "body": [
-        "TRT Haber, 02.11.2026 13:49 tarihinde bu gelişmeyi haberleştirdi.",
-        "Yayımlanan RSS bültenindeki kısa bilgi: “Ankara'da, 3 yaşındaki çocuğunu darp ettiğine ilişkin görüntüleri ortaya çıkan anne tutuklandı.”",
-        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
-      ],
-      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
-      "sources": [
-        "TRT Haber",
-        "RSS yayını · 02.11.2026 13:49"
-      ],
-      "url": "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html",
-      "short_brief": true,
-      "published": "2026-11-02T10:49:00+00:00"
-    },
-    {
       "id": "rss-4e6a77d22359df9c",
       "cat": "Dünya",
       "eyebrow": "DÜNYA · DW TÜRKÇE",
@@ -5974,6 +6574,30 @@
         "RSS yayını · 02.11.2026 13:49"
       ],
       "url": "https://www.dw.com/tr/almanya-da-z-kuşağı-protestoları-içişleri-bakanı-nın-göçmen-vandallar-sözlerine-tepki/a-79828386?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-02T10:49:00+00:00"
+    },
+    {
+      "id": "rss-51905fc5e250cd6c",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "3 yaşındaki çocuğunu darp eden anne tutuklandı",
+      "dek": "Ankara'da, 3 yaşındaki çocuğunu darp ettiğine ilişkin görüntüleri ortaya çıkan anne tutuklandı.",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/cocuk-darp-2500411.jpg",
+      "minutes": 1,
+      "time": "02.11.2026 13:49",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 02.11.2026 13:49 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Ankara'da, 3 yaşındaki çocuğunu darp ettiğine ilişkin görüntüleri ortaya çıkan anne tutuklandı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 02.11.2026 13:49"
+      ],
+      "url": "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html",
       "short_brief": true,
       "published": "2026-11-02T10:49:00+00:00"
     },
