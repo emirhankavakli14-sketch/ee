@@ -178,7 +178,7 @@ def main():
             return real(name,url,cat,xml_data=raw)
         read_feed=fake
     edition=make_edition(FEEDS)
-        if not args.demo:
+    if not args.demo:
         archive_path = ROOT / 'edition.json'
         if archive_path.exists():
             try:
