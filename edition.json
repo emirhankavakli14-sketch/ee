@@ -1,6 +1,6 @@
 {
   "edition_date": "03.11.2026",
-  "updated_at": "2026-11-03T05:48+03:00",
+  "updated_at": "2026-11-03T05:53+03:00",
   "notice": "RSS kaynaklarından otomatik derlenen kısa haber özetleri. Tam makale veya editör onaylı analiz değildir.",
   "articles": [
     {
@@ -716,6 +716,29 @@
       "url": "https://www.webtekno.com/rekabet-kurumu-google-yapay-zeka-sorusturma-ve-gecici-tedbir-karari-h228160.html",
       "short_brief": true,
       "published": "2026-11-02T15:01:14+00:00"
+    },
+    {
+      "id": "rss-9cd22470cb5da0fd",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "Tıpta Bir İlk: Yapay Zekâ Destekli Robotik Sistem, Bir Fare Üzerinde Beyin Ameliyatı Gerçekleştirdi!",
+      "dek": "Anthropic'in Sonnet modeliyle yönetilen cerrahi robot, bir farenin beynine bağımsız kararlarla gen terapisi enjekte ederek bir ilke imza…",
+      "minutes": 1,
+      "time": "02.11.2026 18:00",
+      "art": "tech",
+      "body": [
+        "Webtekno, 02.11.2026 18:00 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Anthropic'in Sonnet modeliyle yönetilen cerrahi robot, bir farenin beynine bağımsız kararlarla gen terapisi enjekte ederek bir ilke imza…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 02.11.2026 18:00"
+      ],
+      "url": "https://www.webtekno.com/ilk-yapay-zeka-destekli-robotik-sistem-bir-fare-uzerinde-beyin-ameliyati-gerceklestirdi-h228155.html",
+      "short_brief": true,
+      "published": "2026-11-02T15:00:44+00:00"
     }
   ],
   "source_count": 8
