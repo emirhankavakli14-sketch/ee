@@ -81,10 +81,10 @@ def read_feed(name, url, default_cat, *, xml_data=None):
         if xml_data is None:
             req = urllib.request.Request(url,headers={'User-Agent':'GundemDailyReader/1.0 (+RSS aggregator; contact repository owner)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
             with urllib.request.urlopen(req,timeout=18) as response:
-            xml_data = response.read(3_000_000)
-     root=ET.fromstring(xml_data)
-     entries=[]
-     for item in root.iter():
+                xml_data = response.read(3_000_000)
+    root=ET.fromstring(xml_data)
+    entries=[]
+    for item in root.iter():
         if item.tag.rsplit('}',1)[-1] not in ('item','entry'):
             continue
         title=child_text(item,'title')
