@@ -37,7 +37,7 @@ KEYWORDS = {
     'Dünya': ['abd','trump','avrupa','ukrayna','rusya','iran','gazze','israil','filistin','çin','almanya','fransa','ingiltere','savaş','bm','nato','ab '],
 }
 ART = {'Türkiye':'turkey','Dünya':'world','Ekonomi':'economy','Teknoloji':'tech'}
-MAX_BY_CAT = {'Türkiye':12,'Dünya':12,'Ekonomi':8,'Teknoloji':8}
+MAX_BY_CAT = {'Türkiye':350,'Dünya':300,'Ekonomi':200,'Teknoloji':150}
 MIN_ITEMS = 6
 
 def clean(value: str) -> str:
