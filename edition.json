@@ -1,6 +1,6 @@
 {
   "edition_date": "03.11.2026",
-  "updated_at": "2026-11-03T05:45+03:00",
+  "updated_at": "2026-11-03T05:48+03:00",
   "notice": "RSS kaynaklarından otomatik derlenen kısa haber özetleri. Tam makale veya editör onaylı analiz değildir.",
   "articles": [
     {
@@ -120,6 +120,98 @@
       "published": "2026-11-02T23:59:03+00:00"
     },
     {
+      "id": "rss-257ef03d2e18d9b9",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
+      "dek": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+      "minutes": 1,
+      "time": "03.11.2026 02:50",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 02:50 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 02:50"
+      ],
+      "url": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
+      "short_brief": true,
+      "published": "2026-11-02T23:50:56+00:00"
+    },
+    {
+      "id": "rss-4bcb45f2bc57ef17",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Ukrayna ve Rusya heyetleri ABD ara buluculuğunda bir araya gelecek",
+      "dek": "Rusya ve Ukrayna arasında yeni bir müzakere turu başlıyor. ABD Özel Temsilcisi Steve Witkoff, tarafların ABD ara buluculuğunda…",
+      "minutes": 1,
+      "time": "03.11.2026 02:42",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 02:42 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Rusya ve Ukrayna arasında yeni bir müzakere turu başlıyor. ABD Özel Temsilcisi Steve Witkoff, tarafların ABD ara buluculuğunda…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 02:42"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/ukrayna-ve-rusya-heyetleri-abd-ara-buluculugunda-bir-araya-gelecek-962006.html",
+      "short_brief": true,
+      "published": "2026-11-02T23:42:00+00:00"
+    },
+    {
+      "id": "rss-8374a60fa89052dc",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "İsrailli eski kadın askerden itiraf: \"Ordu, Gazze ve Batı Şeria'daki gerçekleri manipüle ediyor\"",
+      "dek": "İsrailli eski bir kadın asker, İsrail Ordu Sözcülüğü biriminin Gazze Şeridi ve Batı Şeria'daki askeri operasyonlara ilişkin kamuoyuna…",
+      "minutes": 1,
+      "time": "03.11.2026 01:47",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 01:47 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “İsrailli eski bir kadın asker, İsrail Ordu Sözcülüğü biriminin Gazze Şeridi ve Batı Şeria'daki askeri operasyonlara ilişkin kamuoyuna…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 01:47"
+      ],
+      "url": "https://www.aa.com.tr/tr/dunya/israilli-eski-kadin-askerden-itiraf-ordu-gazze-ve-bati-seriadaki-gercekleri-manipule-ediyor/4109240",
+      "short_brief": true,
+      "published": "2026-11-02T22:47:06+00:00"
+    },
+    {
+      "id": "rss-e09750d41ec7d82b",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · ANADOLU AJANSI",
+      "title": "ABD Başkan Yardımcısı Vance, İran'la uzlaşma ihtimaline \"oldukça iyimser\" yaklaştıklarını belirtti",
+      "dek": "ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser…",
+      "minutes": 1,
+      "time": "03.11.2026 00:39",
+      "art": "turkey",
+      "body": [
+        "Anadolu Ajansı, 03.11.2026 00:39 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Anadolu Ajansı",
+        "RSS yayını · 03.11.2026 00:39"
+      ],
+      "url": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231",
+      "short_brief": true,
+      "published": "2026-11-02T21:39:32+00:00"
+    },
+    {
       "id": "rss-ff9aaf690c9b2a24",
       "cat": "Dünya",
       "eyebrow": "DÜNYA · BBC TÜRKÇE",
@@ -235,27 +327,119 @@
       "published": "2026-11-02T18:41:12+00:00"
     },
     {
-      "id": "rss-69f52fe6f0261d81",
-      "cat": "Ekonomi",
-      "eyebrow": "EKONOMI · TRT HABER",
-      "title": "Karaborsa bilet satışı yapan 9 kişi yakalandı",
-      "dek": "Fenerbahçe-Liverpool maçı için sosyal medya üzerinden karaborsa bilet satışı yaptıkları belirlenen 9 şüpheli gözaltına alındı.",
+      "id": "rss-7162a8744300ef26",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Alman siyasetçilerin cep telefonlarında casus yazılım alarmı",
+      "dek": "Apple, bazı Alman siyasetçilerin iPhone'larının casus yazılımla hedef alınmış olabileceği uyarısında bulundu. Saldırganların telefonlara erişip erişemediği ise henüz…",
       "minutes": 1,
-      "time": "03.11.2026 00:45",
-      "art": "economy",
+      "time": "02.11.2026 21:02",
+      "art": "world",
       "body": [
-        "TRT Haber, 03.11.2026 00:45 tarihinde bu gelişmeyi haberleştirdi.",
-        "Yayımlanan RSS bültenindeki kısa bilgi: “Fenerbahçe-Liverpool maçı için sosyal medya üzerinden karaborsa bilet satışı yaptıkları belirlenen 9 şüpheli gözaltına alındı.”",
+        "DW Türkçe, 02.11.2026 21:02 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Apple, bazı Alman siyasetçilerin iPhone'larının casus yazılımla hedef alınmış olabileceği uyarısında bulundu. Saldırganların telefonlara erişip erişemediği ise henüz…”",
         "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
       ],
       "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
       "sources": [
-        "TRT Haber",
-        "RSS yayını · 03.11.2026 00:45"
+        "DW Türkçe",
+        "RSS yayını · 02.11.2026 21:02"
       ],
-      "url": "https://www.trthaber.com/haber/turkiye/karaborsa-bilet-satisi-yapan-9-kisi-yakalandi-962004.html",
+      "url": "https://www.dw.com/tr/alman-siyasetçilerin-cep-telefonlarında-casus-yazılım-alarmı/a-79833702?maca=tur-rss-tur-all-1495-rdf",
       "short_brief": true,
-      "published": "2026-11-02T21:45:00+00:00"
+      "published": "2026-11-02T18:02:00+00:00"
+    },
+    {
+      "id": "rss-6004f4b2dddd240c",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Avrupa'da süpermarketlerin soğutma sistemlerine siber saldırı: Yedi ülke etkilendi",
+      "dek": "Avrupa'nın birçok ülkesinde süpermarketlerin soğutma sistemlerine siber saldırı düzenlendi. Bazı marketlerin buzdolapları ve derin dondurucularındaki ısının 50 dereceye…",
+      "minutes": 1,
+      "time": "02.11.2026 20:41",
+      "art": "world",
+      "body": [
+        "DW Türkçe, 02.11.2026 20:41 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Avrupa'nın birçok ülkesinde süpermarketlerin soğutma sistemlerine siber saldırı düzenlendi. Bazı marketlerin buzdolapları ve derin dondurucularındaki ısının 50 dereceye…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "DW Türkçe",
+        "RSS yayını · 02.11.2026 20:41"
+      ],
+      "url": "https://www.dw.com/tr/avrupa-da-süpermarketlerin-soğutma-sistemlerine-siber-saldırı-yedi-ülke-etkilendi/a-79833484?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-02T17:41:00+00:00"
+    },
+    {
+      "id": "rss-abac709142ac1604",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · EURONEWS TÜRKÇE",
+      "title": "DSÖ: 'Son salgınlar uluslararası pandemi anlaşmasının acilen tamamlanması gerektiğini gösteriyor'",
+      "dek": "DSÖ Başkanı, yakın zamanda görülen Ebola ve hantavirüs salgınlarının, ülkelerin pandemi anlaşmasını gecikmeden sonuçlandırması gerektiğini gözler önüne serdiğini…",
+      "minutes": 1,
+      "time": "02.11.2026 20:27",
+      "art": "world",
+      "body": [
+        "Euronews Türkçe, 02.11.2026 20:27 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “DSÖ Başkanı, yakın zamanda görülen Ebola ve hantavirüs salgınlarının, ülkelerin pandemi anlaşmasını gecikmeden sonuçlandırması gerektiğini gözler önüne serdiğini…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Euronews Türkçe",
+        "RSS yayını · 02.11.2026 20:27"
+      ],
+      "url": "https://tr.euronews.com/2026/11/02/dso-son-salginlar-uluslararasi-pandemi-anlasmasinin-acilen-tamamlanmasi-gerektigini-goster",
+      "short_brief": true,
+      "published": "2026-11-02T17:27:34+00:00"
+    },
+    {
+      "id": "rss-8544980a338747ea",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Berlin'de koalisyon müzakereleri başladı: Ellif Eralp iyimser",
+      "dek": "Berlin'de Sol Parti, Sosyal Demokrat Parti ve Yeşiller arasında koalisyon hükümetinin kurulmasına yönelik müzakereler başladı.",
+      "minutes": 1,
+      "time": "02.11.2026 20:25",
+      "art": "world",
+      "body": [
+        "DW Türkçe, 02.11.2026 20:25 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Berlin'de Sol Parti, Sosyal Demokrat Parti ve Yeşiller arasında koalisyon hükümetinin kurulmasına yönelik müzakereler başladı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "DW Türkçe",
+        "RSS yayını · 02.11.2026 20:25"
+      ],
+      "url": "https://www.dw.com/tr/berlin-de-koalisyon-müzakereleri-başladı-ellif-eralp-iyimser/a-79833181?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-02T17:25:00+00:00"
+    },
+    {
+      "id": "rss-62e644c439d96c6b",
+      "cat": "Dünya",
+      "eyebrow": "DÜNYA · DW TÜRKÇE",
+      "title": "Almanya'da direksiyonda cep telefonu kullanan bu radardan kaçamayacak: Yeni sistem yapay zekayla yakalayacak",
+      "dek": "Almanya'da direksiyon başında cep telefonu kullanan sürücüleri tespit eden radarların ülke genelinde kullanılması planlanıyor. Sistem, yapay zeka destekli…",
+      "minutes": 1,
+      "time": "02.11.2026 19:18",
+      "art": "world",
+      "body": [
+        "DW Türkçe, 02.11.2026 19:18 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Almanya'da direksiyon başında cep telefonu kullanan sürücüleri tespit eden radarların ülke genelinde kullanılması planlanıyor. Sistem, yapay zeka destekli…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "DW Türkçe",
+        "RSS yayını · 02.11.2026 19:18"
+      ],
+      "url": "https://www.dw.com/tr/almanya-da-direksiyonda-cep-telefonu-kullanan-bu-radardan-kaçamayacak-yeni-sistem-yapay-zekayla-yakalayacak/a-79832666?maca=tur-rss-tur-all-1495-rdf",
+      "short_brief": true,
+      "published": "2026-11-02T16:18:00+00:00"
     },
     {
       "id": "rss-1724299e70ec1393",
@@ -327,6 +511,29 @@
       "published": "2026-11-02T21:18:24+00:00"
     },
     {
+      "id": "rss-a64e38eef8ec7645",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Resmi Gazete'de bugün (03.11.2026)",
+      "dek": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "minutes": 1,
+      "time": "03.11.2026 00:11",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 00:11 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 00:11"
+      ],
+      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-03112026-3793134",
+      "short_brief": true,
+      "published": "2026-11-02T21:11:19+00:00"
+    },
+    {
       "id": "rss-d63aadb41f379a5c",
       "cat": "Teknoloji",
       "eyebrow": "TEKNOLOJI · SHIFTDELETE.NET",
@@ -394,7 +601,122 @@
       "url": "https://shiftdelete.net/android-tv-kutulari-arka-kapi-google",
       "short_brief": true,
       "published": "2026-11-02T21:00:40+00:00"
+    },
+    {
+      "id": "rss-28134858f5fb92fc",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · SHIFTDELETE.NET",
+      "title": "Xbox'ta ekim rekoru: Bir ayda 210 yeni oyun",
+      "dek": "Ekim 2026'da Xbox'ta 210 yeni oyun çıktı. Bunların 95'i Xbox Play Anywhere desteğiyle geldi.",
+      "minutes": 1,
+      "time": "02.11.2026 23:48",
+      "art": "tech",
+      "body": [
+        "ShiftDelete.Net, 02.11.2026 23:48 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Ekim 2026'da Xbox'ta 210 yeni oyun çıktı. Bunların 95'i Xbox Play Anywhere desteğiyle geldi.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "ShiftDelete.Net",
+        "RSS yayını · 02.11.2026 23:48"
+      ],
+      "url": "https://shiftdelete.net/xbox-ekim-2026-210-oyun-rekor",
+      "short_brief": true,
+      "published": "2026-11-02T20:48:47+00:00"
+    },
+    {
+      "id": "rss-5f90da3a7bee513d",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · EURONEWS TÜRKÇE",
+      "title": "Elon Musk'ın beyin çipi firması Neuralink, insan beynini Grok'a bağladı",
+      "dek": "Şirket, engelli kişilerin düşünce yoluyla telefon görüşmesi yapmasını ve Grok yapay zeka asistanını kontrol etmesini sağlıyor.",
+      "minutes": 1,
+      "time": "02.11.2026 22:17",
+      "art": "tech",
+      "body": [
+        "Euronews Türkçe, 02.11.2026 22:17 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Şirket, engelli kişilerin düşünce yoluyla telefon görüşmesi yapmasını ve Grok yapay zeka asistanını kontrol etmesini sağlıyor.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Euronews Türkçe",
+        "RSS yayını · 02.11.2026 22:17"
+      ],
+      "url": "https://tr.euronews.com/2026/11/02/elon-muskin-beyin-cipi-firmasi-neuralink-insan-beynini-groka-bagladi",
+      "short_brief": true,
+      "published": "2026-11-02T19:17:08+00:00"
+    },
+    {
+      "id": "rss-dab8339df62ccbd3",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "Audi Neden Çin'e Özel Otomobil Üretiyor?",
+      "dek": "Audi neden Çin için özel otomobiller üretiyor ve bu otomobilleri başka bir yerde görmüyoruz? Detaylarıyla inceliyoruz.",
+      "minutes": 1,
+      "time": "02.11.2026 18:29",
+      "art": "tech",
+      "body": [
+        "Webtekno, 02.11.2026 18:29 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Audi neden Çin için özel otomobiller üretiyor ve bu otomobilleri başka bir yerde görmüyoruz? Detaylarıyla inceliyoruz.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 02.11.2026 18:29"
+      ],
+      "url": "https://www.webtekno.com/audi-neden-cin-ozel-araba-uretiyor-h228013.html",
+      "short_brief": true,
+      "published": "2026-11-02T15:29:40+00:00"
+    },
+    {
+      "id": "rss-9b05e8a2e8f251be",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "YouTube’da Yeni Can Sıkıcı Problem: Videolar Kendi Kendine Tam Ekrandan Çıkıyor",
+      "dek": "YouTube’da videoların aniden tam ekrandan çıkıp sesi kesen yeni hatası hem Android hem de iOS kullanıcılarını mağdur ediyor.",
+      "minutes": 1,
+      "time": "02.11.2026 18:28",
+      "art": "tech",
+      "body": [
+        "Webtekno, 02.11.2026 18:28 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “YouTube’da videoların aniden tam ekrandan çıkıp sesi kesen yeni hatası hem Android hem de iOS kullanıcılarını mağdur ediyor.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 02.11.2026 18:28"
+      ],
+      "url": "https://www.webtekno.com/youtube-yeni-can-sikici-problem-h228133.html",
+      "short_brief": true,
+      "published": "2026-11-02T15:28:59+00:00"
+    },
+    {
+      "id": "rss-3cfbc70c4b287196",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "Rekabet Kurumu'ndan Google'a Yapay Zekâ Kıskacı: Soruşturma ve Geçici Tedbir Kararı Geldi!",
+      "dek": "Rekabet Kurumu, Google’ın yapay zekâ özetlerine karşı yayıncıları korumak amacıyla resmî soruşturma açarak geçici tedbir kararı aldı.",
+      "minutes": 1,
+      "time": "02.11.2026 18:01",
+      "art": "tech",
+      "body": [
+        "Webtekno, 02.11.2026 18:01 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Rekabet Kurumu, Google’ın yapay zekâ özetlerine karşı yayıncıları korumak amacıyla resmî soruşturma açarak geçici tedbir kararı aldı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 02.11.2026 18:01"
+      ],
+      "url": "https://www.webtekno.com/rekabet-kurumu-google-yapay-zeka-sorusturma-ve-gecici-tedbir-karari-h228160.html",
+      "short_brief": true,
+      "published": "2026-11-02T15:01:14+00:00"
     }
   ],
-  "source_count": 6
+  "source_count": 8
 }
