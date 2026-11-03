@@ -1,8 +1,56 @@
 {
   "edition_date": "03.11.2026",
-  "updated_at": "2026-11-03T07:00+03:00",
+  "updated_at": "2026-11-03T07:13+03:00",
   "notice": "RSS kaynaklarından otomatik derlenen kısa haber özetleri. Tam makale veya editör onaylı analiz değildir.",
   "articles": [
+    {
+      "id": "rss-832fd7bef65a42bc",
+      "cat": "Teknoloji",
+      "eyebrow": "TEKNOLOJI · WEBTEKNO",
+      "title": "ChatGPT’ye Kullanıcıları Çok Sevindirecek Bir Değişiklik Geliyor!",
+      "dek": "OpenAI, ChatGPT’nin sohbet ve çalışma sekmelerini birleştirmeye hazırlandığını açıkladı.",
+      "image": "https://imgrosetta.webtekno.com/file/695413/695413-640xauto.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:08",
+      "art": "tech",
+      "body": [
+        "Webtekno, 03.11.2026 07:08 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “OpenAI, ChatGPT’nin sohbet ve çalışma sekmelerini birleştirmeye hazırlandığını açıkladı.”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Webtekno",
+        "RSS yayını · 03.11.2026 07:08"
+      ],
+      "url": "https://www.webtekno.com/chatgpt-chat-work-sekmeleri-birlesiyor-h228166.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:08:28+00:00"
+    },
+    {
+      "id": "rss-2659b7a31229955c",
+      "cat": "Ekonomi",
+      "eyebrow": "EKONOMI · BLOOMBERG HT",
+      "title": "Petrol, yüzde 8'lik düşüşün ardından yatay seyrediyor",
+      "dek": "Brent petrol, bir önceki gün yaklaşık yüzde 8'lik düşüşün ardından istikrar kazandı. Ortadoğu'daki savaş dokuzuncu ayına girerken, ABD…",
+      "image": "https://geoim.bloomberght.com/l/2026/11/03/ver1793678511/3793142/jpg/1280x720",
+      "minutes": 1,
+      "time": "03.11.2026 07:00",
+      "art": "economy",
+      "body": [
+        "Bloomberg HT, 03.11.2026 07:00 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Brent petrol, bir önceki gün yaklaşık yüzde 8'lik düşüşün ardından istikrar kazandı. Ortadoğu'daki savaş dokuzuncu ayına girerken, ABD…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "Bloomberg HT",
+        "RSS yayını · 03.11.2026 07:00"
+      ],
+      "url": "https://www.bloomberght.com/petrol-yuzde-8lik-dususun-ardindan-yatay-seyrediyor-3793142",
+      "short_brief": true,
+      "published": "2026-11-03T04:00:37+00:00"
+    },
     {
       "id": "rss-b77385831d435657",
       "cat": "Teknoloji",
