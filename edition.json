@@ -1,6 +1,6 @@
 {
   "edition_date": "03.11.2026",
-  "updated_at": "2026-11-03T07:13+03:00",
+  "updated_at": "2026-11-03T07:18+03:00",
   "notice": "RSS kaynaklarından otomatik derlenen kısa haber özetleri. Tam makale veya editör onaylı analiz değildir.",
   "articles": [
     {
@@ -26,6 +26,31 @@
       "url": "https://www.webtekno.com/chatgpt-chat-work-sekmeleri-birlesiyor-h228166.html",
       "short_brief": true,
       "published": "2026-11-03T04:08:28+00:00"
+    },
+    {
+      "id": "rss-3fbd58c864b781a3",
+      "cat": "Türkiye",
+      "eyebrow": "TÜRKIYE · TRT HABER",
+      "title": "Endonezya'daki orman yangınlarının dumanı komşu ülkelerde siyasi krize yol açtı",
+      "dek": "Endonezya'daki orman yangınlarından yayılan zehirli duman Singapur ve Malezya'yı etkisi altına aldı. Haftalardır süren hava kirliliği solunum yolu…",
+      "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2500000/endo-2500609.jpg",
+      "minutes": 1,
+      "time": "03.11.2026 07:07",
+      "art": "turkey",
+      "body": [
+        "TRT Haber, 03.11.2026 07:07 tarihinde bu gelişmeyi haberleştirdi.",
+        "Yayımlanan RSS bültenindeki kısa bilgi: “Endonezya'daki orman yangınlarından yayılan zehirli duman Singapur ve Malezya'yı etkisi altına aldı. Haftalardır süren hava kirliliği solunum yolu…”",
+        "Bu sayfa, kaynağın herkese açık haber akışındaki özetinden otomatik oluşturulmuştur. Kaynakta yer almayan ayrıntılar eklenmemiştir. Daha kapsamlı açıklamalar ve sonraki gelişmeler için haberin tarihini ve kaynak bilgisini dikkate alın."
+      ],
+      "why": "Haberin konusu ve etkileri hakkında kesin değerlendirme yapmak için doğrulanmış ayrıntılar ve güncellemeler önemlidir.",
+      "sources": [
+        "TRT Haber",
+        "RSS yayını · 03.11.2026 07:07"
+      ],
+      "url": "https://www.trthaber.com/haber/dunya/endonezyadaki-orman-yanginlarinin-dumani-komsu-ulkelerde-siyasi-krize-yol-acti-962016.html",
+      "short_brief": true,
+      "published": "2026-11-03T04:07:00+00:00",
+      "lead": true
     },
     {
       "id": "rss-2659b7a31229955c",
@@ -169,8 +194,7 @@
       ],
       "url": "https://www.trthaber.com/haber/dunya/meksikada-kucuk-ucak-dustu-2-kisi-hayatini-kaybetti-962014.html",
       "short_brief": true,
-      "published": "2026-11-03T03:32:00+00:00",
-      "lead": true
+      "published": "2026-11-03T03:32:00+00:00"
     },
     {
       "id": "rss-2cb2d0bf5bdd053a",
