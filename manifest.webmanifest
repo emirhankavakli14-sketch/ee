@@ -1,0 +1,22 @@
+{
+  "name": "GÜNDEM. — Günlük Dijital Gazeten",
+  "short_name": "GÜNDEM.",
+  "description": "Gazete gibi okunabilen günlük haber uygulaması.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf8f1",
+  "theme_color": "#faf8f1",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
